@@ -1,5 +1,5 @@
 class BAL{
     public void main(String[],args){
-        System.out.println(x:"Hello world");
+        System.out.println(x:"Hello world1");
     }
 }
